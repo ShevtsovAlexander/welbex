@@ -442,10 +442,10 @@
 
 @font-face {
     font-family: 'Montserrat400';
-    src: url("/src/fonts/Montserrat/Static/Montserrat-Regular.ttf");
+    src: url("/src/fonts/Montserrat/static/Montserrat-Regular.ttf");
 }
 
 @font-face {
     font-family: 'Montserrat300';
-    src: url("/src/fonts/Montserrat/Static/Montserrat-Light.ttf");
+    src: url("/src/fonts/Montserrat/static/Montserrat-Light.ttf");
 }
